@@ -1,4 +1,4 @@
-👋 Hi, I’m paolomugnaini
+👋 Hi, I’m paolomugnaini, an ex teacher with a BSc in Mechanical engineering and a MSc in Biomedical Engineering
 
 👀 I’m interested in coding, signal processing, and Machine Learning
 
